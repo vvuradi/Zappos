@@ -22,7 +22,7 @@ details by using product name as an input. Product API currently supports only
 retrieval by product id only.
 
 Suggestion:
-1. If the Product API supports retrieval by product name also, then using the
+1. If the Product API had supported retrieval by product name also, then using the
 product name array (currently supports array of size 10 for product id's), number
 of API requests can be reduced by 900%. In one call you can get details about
 10 products. This can be done with existing API's, but only with product id and
